@@ -8,7 +8,9 @@ public class ClassA {
     @MyAutowired
    private  ClassB bClass;
 
-
+public ClassA()
+{}
+    
 
 
 }
